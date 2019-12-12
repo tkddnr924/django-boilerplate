@@ -127,3 +127,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+boiler
+boiler/*
+boiler/.Python
+boiler/bin/activate
+boiler/bin/activate.csh
+boiler/bin/activate.fish
+boiler/bin/activate_this.py
+boiler/bin/django-admin
+boiler/bin/django-admin.py
+boiler/bin/easy_install
+boiler/bin/easy_install-3.5
+boiler/bin/pip
+boiler/bin/pip3
+boiler/bin/pip3.5
+boiler/bin/python
+boiler/bin/python-config
+boiler/bin/python3
+boiler/bin/python3.5
+boiler/bin/sqlformat
+boiler/bin/wheel
+boiler/include/
+mysite/db.sqlite3
+
